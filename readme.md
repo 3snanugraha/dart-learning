@@ -31,3 +31,22 @@ Dart Web memungkinkan kode Dart dijalankan pada platform web yang didukung oleh 
 Dart Web menggunakan Dart dev compiler (dartdevc), compiler yang mengonversi kode Dart menjadi JavaScript. Alih-alih menggunakan dartdevc secara langsung, Anda dapat menggunakan webdev, yakni alat yang mendukung tugas inti developer seperti menjalankan, membangun, dan debugging.
 
 Untuk mengoptimalkan kode pada lingkungan production, terdapat dart2js compiler yang dapat mengompilasi kode Dart dengan cepat dan ringkas. Dart2js menggunakan teknik yang bisa mengeliminasi kode yang tidak perlu.
+
+Rangkuman Modul 1 : 
+Rangkuman Materi
+Selamat! Anda telah menyelesaikan modul pertama pada kelas ini. Pada modul ini kita telah berkenalan Dart, mengetahui karakteristik, dan platform yang menjalankan Dart. Ini adalah awal yang baik! Mari kita uraikan apa yang sudah kita pelajari di modul ini:
+
+Dart adalah bahasa pemrograman open source dan general purpose buatan Google yang ditujukan untuk membuat aplikasi multiplatform seperti mobile, desktop, dan web.
+Tujuan awal pembuatan Dart adalah untuk menggantikan JavaScript yang dinilai memiliki banyak kelemahan.
+Beberapa alasan yang bisa Anda pertimbangkan untuk mulai belajar Dart, antara lain:
+Dart adalah bahasa pemrograman yang fleksibel.
+Dart adalah project open-source.
+Dart digunakan oleh Flutter.
+Dart memiliki dukungan tools yang lengkap.
+Dart mudah dipelajari dan bagus sebagai first language.
+Dart didesain agar mirip dengan bahasa pemrograman populer yang sudah ada, seperti Java, C#, Javascript, Swift, dan Kotlin. Artinya, developer yang telah familiar dengan kedua bahasa tersebut dapat memulai belajar bahasa Dart dengan lebih mudah.
+Dart sebagai bahasa memiliki beberapa karakteristik berikut:
+Statically typed, di mana kita perlu mendefinisikan variabel sebelum bisa menggunakannya.
+Type inference, di mana tipe data tidak perlu didefinisikan secara eksplisit.
+String Interpolation, bisa menyisipkan variabel ke dalam sebuah objek String tanpa concantenation (penggabungan objek String menggunakan tanda +).
+Multi-paradigm: OOP & Functional, mendukung konsep object oriented programming dan menggunakan gaya functional programming.
